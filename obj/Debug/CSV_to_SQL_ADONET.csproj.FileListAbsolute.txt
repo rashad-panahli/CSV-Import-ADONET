@@ -1,0 +1,7 @@
+C:\Users\Rashad Panahli\source\repos\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\Rashad Panahli\source\repos\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\Rashad Panahli\source\repos\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\Rashad Panahli\source\repos\Test1\Test1\obj\Debug\CSV_to_SQL_ADONET.csproj.AssemblyReference.cache
+C:\Users\Rashad Panahli\source\repos\Test1\Test1\obj\Debug\CSV_to_SQL_ADONET.csproj.CoreCompileInputs.cache
+C:\Users\Rashad Panahli\source\repos\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\Rashad Panahli\source\repos\Test1\Test1\obj\Debug\Test1.pdb
